@@ -1,0 +1,1 @@
+var name="Ioanna";document.write("Hello "+name+"!");
